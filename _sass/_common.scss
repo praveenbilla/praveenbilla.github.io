@@ -1,0 +1,127 @@
+body {
+  font-family: $main-font;
+  position: relative;
+  padding-bottom: 60px;
+  min-height: 100vh;
+}
+
+.panel{
+  border-color: $dark-grey;
+}
+.panel-primary{
+  .panel-heading{
+    padding: 8px 15px;
+    border-color: $dark-grey;
+    background-color: $dark-grey;
+  }
+}
+
+.panel-title{
+  font-size: 25px;
+}
+
+.vcenter {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  color: $dark-grey;
+}
+
+header {
+  nav.navbar.navbar-default {
+    background-color: $dark-grey;
+
+    .navbar-brand {
+      padding: 3px 8px;
+      position: relative;
+
+      &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: -50px;
+        width: 50px;
+        height: 50px;
+        background-image: url('../images/layout/ramp-nav.gif');
+      }
+
+      &, &:hover, &:visited, &:active {
+        background-color: $yellow;
+        color: $dark-grey;
+        text-decoration: none;
+      }
+
+      .name {
+        display: inline-block;
+        transition: all 0.3s ease-in
+      }
+
+      &:hover {
+        .name {
+          transform: scale(1.1,1.1);
+        }
+      }
+
+      img {
+        display: inline-block;
+        border: 2px solid $light-grey;
+        margin-right: 10px;
+      }
+    }
+
+    .navbar-nav li a {
+      &, &:hover, &:visited, &:active {
+        color: $light-grey;
+        font-weight: 300;
+        display: inline-block;
+        transition: all 0.3s ease-in
+
+      }
+
+      &:hover {
+        transform: scale(1.1,1.1);
+      }
+    }
+  }
+}
+
+
+
+
+footer {
+  background-color: $dark-grey;
+  color: $light-grey;
+  text-align: center;
+  padding: 15px 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.panel-body{
+  #intro{
+    font-size: 1.5em;
+    font-weight: 100;
+    color: black;
+  }
+}
+#imp{
+  font-weight: 400;
+}
+
+
+.block{
+  display: inline-block;
+}
+
+
+// about
+
+#about{
+  
+}
