@@ -79,6 +79,9 @@ footer {
 .block {
   display: inline-block; }
 
+body {
+  background-color: #F5F5F5; }
+
 body#landing-page {
   padding-bottom: 0;
   width: 100vw;
