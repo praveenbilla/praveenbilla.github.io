@@ -4,11 +4,11 @@
     <title>Praveen Billa</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Sep 2016 21:11:39 +0530</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2016 21:11:39 +0530</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 25 Feb 2017 23:31:17 +0530</pubDate>
+    <lastBuildDate>Sat, 25 Feb 2017 23:31:17 +0530</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Calculator App</title>
@@ -19,8 +19,8 @@
 &lt;p&gt;Please check the app from below link.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://vineetsouri.github.io/NewCalci&quot;&gt;Link to Calculator App.&lt;/a&gt;&lt;/p&gt;</description>
         <pubDate>Sat, 30 May 2015 16:53:03 +0530</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/30/Calculator.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/30/Calculator.html</guid>
+        <link>http://localhost:4000/jekyll/update/2015/05/30/Calculator.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/05/30/Calculator.html</guid>
         
         
         <category>jekyll</category>
@@ -33,8 +33,8 @@
         <title>Update on Codecademy basics..!!</title>
         <description>Guys feeling happy to announce that i have completed my codecademy basics on HTML&amp;CSS,JavaScript,Jquery and Ruby.</description>
         <pubDate>Sat, 23 May 2015 16:53:03 +0530</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/23/Update-on-codecademy.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/23/Update-on-codecademy.html</guid>
+        <link>http://localhost:4000/jekyll/update/2015/05/23/Update-on-codecademy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/05/23/Update-on-codecademy.html</guid>
         
         
         <category>jekyll</category>
@@ -47,8 +47,8 @@
         <title>My first Post!</title>
         <description>Hey guys this is my first blog-post in my website..</description>
         <pubDate>Thu, 21 May 2015 16:53:03 +0530</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/21/my-first-post.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/21/my-first-post.html</guid>
+        <link>http://localhost:4000/jekyll/update/2015/05/21/my-first-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/05/21/my-first-post.html</guid>
         
         
         <category>jekyll</category>
